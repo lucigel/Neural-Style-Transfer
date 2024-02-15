@@ -13,6 +13,8 @@ some interest results
 
 # REFER
 https://viblo.asia/p/bien-anh-cua-ban-thanh-cac-tac-pham-hoi-hoa-voi-neural-style-transfer-WAyK8dXoKxX
+
 https://www.youtube.com/watch?v=c3kL9yFGUOY&t=1280s
+
 https://www.youtube.com/watch?v=imX4kSKDY7s&t=415s
 
